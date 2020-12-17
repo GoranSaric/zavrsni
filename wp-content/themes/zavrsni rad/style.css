@@ -682,10 +682,8 @@ HERO STAT CSS
   max-width: 1000px;
   margin: 0 auto;
 }
-#contact-wrap ul {
+.social-icons {
   display: flex;
-  flex: 1;
-  flex-wrap: wrap;
 }
 .social-icons a {
   text-decoration: none;

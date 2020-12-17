@@ -142,7 +142,7 @@ get_header(); ?>
 			<?php $counter++; endwhile; ?>
 			
 			<div id="redirect-btn" class="clearfix">
-				<a href="http://polaznik70.edunova.hr/tavern" class="box-btn">To the tavern!</a>
+				<a href="http://localhost/zavrsni/tavern" class="box-btn">To the tavern!</a>
 			</div>
 		</div>
 	</div>
